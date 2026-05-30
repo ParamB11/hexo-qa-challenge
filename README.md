@@ -5,7 +5,11 @@ bash scripts/run_table.sh
 ```
 
 ## Step 2: Run Inference
-`python src/hybrid_infer.py`
+```
+python src/hybrid_infer.py
+```
 
 ## Step 3: Evaluate
-`python src/temp_eval_v2.py`
+```
+python src/temp_eval_v2.py
+```
