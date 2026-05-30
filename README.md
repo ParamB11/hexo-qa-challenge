@@ -11,5 +11,5 @@ python src/hybrid_infer.py
 
 ## Step 3: Evaluate
 ```
-python src/temp_eval_v2.py
+python src/eval.py
 ```
