@@ -16,6 +16,12 @@ python src/eval.py
 ```
 
 # Challenge 2: Proxy Ranking
+For training:
 ```
 python src/train_lambdamart.py
+```
+
+For evaluation of the validation dataset:
+```
+python src/eval_kendall.py
 ```
